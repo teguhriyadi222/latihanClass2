@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\obj\Debug\net7.0\latihanclass2.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\obj\Debug\net7.0\latihanclass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\obj\Debug\net7.0\latihanclass2.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\obj\Debug\net7.0\latihanclass2.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\obj\Debug\net7.0\latihanclass2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\bin\Debug\net7.0\latihanclass2.exe
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\bin\Debug\net7.0\latihanclass2.deps.json
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\bin\Debug\net7.0\latihanclass2.runtimeconfig.json
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\bin\Debug\net7.0\latihanclass2.dll
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\bin\Debug\net7.0\latihanclass2.pdb
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\obj\Debug\net7.0\latihanclass2.dll
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\obj\Debug\net7.0\refint\latihanclass2.dll
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\obj\Debug\net7.0\latihanclass2.pdb
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\obj\Debug\net7.0\latihanclass2.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\latihanClass2\latihanclass2\obj\Debug\net7.0\ref\latihanclass2.dll
